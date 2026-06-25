@@ -1,5 +1,7 @@
 # GET IT DONE - Task Manager
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://rana-haseeb.github.io/todo-dashboard/)
+
 GET IT DONE is a polished single-page to-do app built with plain HTML, CSS, and JavaScript. It is designed for fast task capture, simple filtering, and local persistence without any build step or external framework.
 
 ## Overview
